@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... web development
 - 🌱 I’m currently learning ... MERN Stack
 - 💞️ I’m looking to collaborate on ... Webdev projects
-- 📫 How to reach me ... mail:mdaftab0726@gmail.com or insta: mdaftab_408
+- 📫 How to reach me ... mail: -- or insta: mdaftab_408
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
