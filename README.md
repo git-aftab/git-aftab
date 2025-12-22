@@ -78,10 +78,10 @@
 
 <div align="center">
 
-[![Amazon Clone](https://github-readme-stats.vercel.app/api/pin/?username=git-aftab&repo=Amazon.com&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=E1E8EF)](https://github.com/git-aftab/Amazon.com)
-[![Tic Tac Toe](https://github-readme-stats.vercel.app/api/pin/?username=git-aftab&repo=Tic_tac_toe&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=E1E8EF)](https://github.com/git-aftab/Tic_tac_toe)
-[![Login Page](https://github-readme-stats.vercel.app/api/pin/?username=git-aftab&repo=Login_Page_01&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=E1E8EF)](https://github.com/git-aftab/Login_Page_01)
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=git-aftab&repo=portfolio-website&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=E1E8EF)](https://github.com/git-aftab/portfolio-website)
+[![Groovo Music player]()](https://github.com/git-aftab/Groovo_music_player.git)
+[![Atlas TGuide])](https://github.com/git-aftab/Atlas_TGuide.git)
+[![Expense Tracker]()](https://github.com/git-aftab/expense_tracker_frontend.git)
+[![Portfolio Website](https://portfolio-website-woad-mu-36.vercel.app/)](https://github.com/git-aftab/portfolio_website.git)
 
 </div>
 
@@ -93,7 +93,7 @@
   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mdaftab_408)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/git-aftab)
-[![LinkedIn](https://www.linkedin.com/in/md-aftab-360996328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-aftab-360996328/)
 
 
 </div>
