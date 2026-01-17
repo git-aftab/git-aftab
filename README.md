@@ -1,55 +1,72 @@
-# 👋 Hi, I'm Aftab!
+# 👋 Hi, I'm Md Aftab Ansari!
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+Scalable+Web+Applications;JavaScript+Enthusiast;Turning+Ideas+Into+Reality)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=git-aftab&color=00FF41&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves building innovative solutions and contributing to open-source projects. I enjoy exploring new technologies and turning ideas into reality through code.
+Hey there! I'm a **Full Stack Developer** based in **Chennai**, passionate about creating robust web applications using the MERN stack. I love solving complex problems and building products that make a difference.
 
-- 🔭 I'm currently working on exciting web projects
-- 🌱 I'm continuously learning and improving my skills
-- 👯 I'm looking to collaborate on open-source projects
-- 💬 Ask me about web development, coding, or tech in general
-- ⚡ Fun fact: I turn coffee into code!
+```javascript
+const aftab = {
+    location: "Chennai, India",
+    role: "Full Stack Developer",
+    currentFocus: "Building a Full Stack Project Management App",
+    techStack: ["MongoDB", "Express.js", "React.js", "Node.js"],
+    hobbies: ["Coding", "Playing Cricket", "Exploring New Tech"],
+    favoriteLanguage: "JavaScript ❤️",
+    lifePhilosophy: "Code, Cricket, Repeat! 🏏💻"
+};
+```
+
+- 🔭 Currently building a **Full Stack Project Management Application**
+- 🌱 Deepening my expertise in the **MERN Stack**
+- 🏏 When not coding, you'll find me playing **Cricket**
+- 💚 JavaScript is my favorite programming language
+- 💬 Ask me about **MongoDB, Express, React, Node.js**
+- 📫 Reach me at: **aftabdev18@gmail.com**
 
 ## 🛠️ Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Core Technologies
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF41)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=00FF41)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF41)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux&logoColor=61DAFB)
+
+### Backend & Database
+![RESTful API](https://img.shields.io/badge/-REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=00FF41)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=00FF41)
+![Mongoose](https://img.shields.io/badge/-Mongoose-000000?style=for-the-badge&logo=mongodb&logoColor=00FF41)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)
+![VS Code](https://img.shields.io/badge/-VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=61DAFB)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman&logoColor=00FF41)
+![NPM](https://img.shields.io/badge/-NPM-000000?style=for-the-badge&logo=npm&logoColor=00FF41)
 
 ## 📊 GitHub Statistics
 
 <div align="center">
   
-![Aftab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=git-aftab&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=git-aftab&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=61DAFB&text_color=00FF41&ring_color=00FF41" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=git-aftab&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF)
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=git-aftab&theme=chartreuse-dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&stroke=61DAFB" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=git-aftab&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-aftab&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41" />
 
 </div>
 
@@ -57,7 +74,7 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 <div align="center">
   
-![Trophies](https://github-profile-trophy.vercel.app/?username=git-aftab&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=git-aftab&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)
 
 </div>
 
@@ -65,7 +82,7 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 <div align="center">
   
-[![Aftab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=git-aftab&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF)](https://github.com/git-aftab)
+[![Aftab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=git-aftab&theme=github-compact&hide_border=true&bg_color=000000&color=00FF41&line=61DAFB&point=00FF41&area=true&area_color=00FF41)](https://github.com/git-aftab)
 
 </div>
 
@@ -73,35 +90,49 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 <div align="center">
 
-[![Groovo Music Player](https://github-readme-stats.vercel.app/api/pin/?username=git-aftab&repo=Groovo-Music-player&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF)](https://github.com/git-aftab/Groovo-Music-player)
-[![Expense Tracker](https://github-readme-stats.vercel.app/api/pin/?username=git-aftab&repo=Expense-Tracker&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF)](https://github.com/git-aftab/Expense-Tracker)
+<a href="https://github.com/git-aftab/Groovo_music_player">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=git-aftab&repo=Groovo_music_player&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=61DAFB&text_color=00FF41" />
+</a>
+
+<a href="https://github.com/git-aftab/expense_tracker_Backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=git-aftab&repo=expense_tracker_Backend&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=61DAFB&text_color=00FF41" />
+</a>
 
 </div>
+
+### 🎵 Groovo Music Player
+A sleek music player application with modern UI/UX and smooth playback functionality.
+
+### 💰 Expense Tracker Backend
+A robust backend API for tracking expenses with secure authentication and data management.
 
 ## 🤝 Connect With Me
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=61DAFB)](https://www.linkedin.com/in/md-aftab-360996328)
+[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:aftabdev18@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/git-aftab)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://your-portfolio-link.com)
 
 </div>
 
-## 💭 Random Dev Quote
+## 💭 Dev Quote of the Day
 
 <div align="center">
   
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
 
 </div>
 
-## 📊 Profile Views
+## 📊 Coding Stats
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=git-aftab&color=F75C7E&style=flat-square&label=Profile+Views)
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-Calculating...-00FF41?style=flat-square&labelColor=000000)
+![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-Thousands%20of%20Lines-00FF41?style=flat-square&labelColor=000000)
+<!--END_SECTION:waka-->
 
 </div>
 
@@ -111,6 +142,17 @@ I'm a passionate developer who loves building innovative solutions and contribut
   
 ### ⭐️ From [git-aftab](https://github.com/git-aftab)
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+```javascript
+while (alive) {
+    eat();
+    sleep();
+    code();
+    playCricket();
+}
+```
+
+*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler*
+
+**Happy Coding! 🚀**
 
 </div>
