@@ -61,22 +61,14 @@ const aftab = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=git-aftab&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=61DAFB&text_color=00FF41&ring_color=00FF41" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=git-aftab&theme=chartreuse-dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&stroke=61DAFB" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=git-aftab&theme=github_dark" width="98%"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-aftab&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41" />
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=git-aftab&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=git-aftab&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=git-aftab&theme=github_dark" />
 
 </div>
+
 
 ## 📈 Contribution Graph
 
@@ -120,10 +112,14 @@ A robust backend API for tracking expenses with secure authentication and data m
 ## 💭 Dev Quote of the Day
 
 <div align="center">
+
   
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
 
+
 </div>
+
+
 
 ## 📊 Coding Stats
 
@@ -149,6 +145,8 @@ while (alive) {
     code();
     playCricket();
 }
+
+
 ```
 
 *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler*
