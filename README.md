@@ -163,12 +163,12 @@ Node.js • Supabase pgvector • Transformers • OpenRouter
 
 # 📈 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=git-aftab&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-aftab&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<div align="center"> 
+  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=git-aftab&theme=github_dark" width="98%"/> 
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=git-aftab&theme=github_dark" /> 
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=git-aftab&theme=github_dark" /> 
+  
 </div>
 
 ---
