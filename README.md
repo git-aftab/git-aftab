@@ -1,156 +1,246 @@
-# 👋 Hi, I'm Md Aftab Ansari!
-
+# 👋 Hey, I'm Md Aftab Ansari
+<br/>
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=false&width=560&lines=Full+Stack+Developer;Backend+Engineer+%7C+MERN;Building+AI-Powered+Systems" alt="Typing SVG" />
+<br/>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+Scalable+Web+Applications;JavaScript+Enthusiast;Turning+Ideas+Into+Reality)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=git-aftab&color=00FF41&style=flat-square&label=Profile+Views" alt="Profile Views" />
+Building scalable web applications with modern backend architecture, clean UI, and AI-powered features.
 
-</div>
+<a href="https://www.mdaftab.me"><img src="https://img.shields.io/badge/Portfolio-mdaftab.me-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/md-aftab-360996328/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/git-aftab"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:aftabdev18@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-## 🚀 About Me
-
-Hey there! I'm a **Full Stack Developer** based in **Chennai**, passionate about creating robust web applications using the MERN stack. I love solving complex problems and building products that make a difference.
-
-```javascript
-const aftab = {
-    location: "Chennai, India",
-    role: "Full Stack Developer",
-    currentFocus: "Building a Full Stack Project Management App",
-    techStack: ["MongoDB", "Express.js", "React.js", "Node.js"],
-    hobbies: ["Coding", "Playing Cricket", "Exploring New Tech"],
-    favoriteLanguage: "JavaScript ❤️",
-    lifePhilosophy: "Code, Cricket, Repeat! 🏏💻"
-};
-```
-
-- 🔭 Currently building a **Full Stack Project Management Application**
-- 🌱 Deepening my expertise in the **MERN Stack**
-- 🏏 When not coding, you'll find me playing **Cricket**
-- 💚 JavaScript is my favorite programming language
-- 💬 Ask me about **MongoDB, Express, React, Node.js**
-- 📫 Reach me at: **aftabdev18@gmail.com**
-
-## 🛠️ Tech Stack
-
-### Core Technologies
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF41)
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=00FF41)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF41)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux&logoColor=61DAFB)
-
-### Backend & Database
-![RESTful API](https://img.shields.io/badge/-REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=00FF41)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=00FF41)
-![Mongoose](https://img.shields.io/badge/-Mongoose-000000?style=for-the-badge&logo=mongodb&logoColor=00FF41)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)
-![VS Code](https://img.shields.io/badge/-VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=61DAFB)
-![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman&logoColor=00FF41)
-![NPM](https://img.shields.io/badge/-NPM-000000?style=for-the-badge&logo=npm&logoColor=00FF41)
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=git-aftab&theme=github_dark" width="98%"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=git-aftab&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=git-aftab&theme=github_dark" />
-
-</div>
-
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Aftab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=git-aftab&theme=github-compact&hide_border=true&bg_color=000000&color=00FF41&line=61DAFB&point=00FF41&area=true&area_color=00FF41)](https://github.com/git-aftab)
-
-</div>
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/git-aftab/Groovo_music_player">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=git-aftab&repo=Groovo_music_player&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=61DAFB&text_color=00FF41" />
-</a>
-
-<a href="https://github.com/git-aftab/expense_tracker_Backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=git-aftab&repo=expense_tracker_Backend&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=61DAFB&text_color=00FF41" />
-</a>
-
-</div>
-
-### 🎵 Groovo Music Player
-A sleek music player application with modern UI/UX and smooth playback functionality.
-
-### 💰 Expense Tracker Backend
-A robust backend API for tracking expenses with secure authentication and data management.
-
-## 🤝 Connect With Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=61DAFB)](https://www.linkedin.com/in/md-aftab-360996328)
-[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:aftabdev18@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/git-aftab)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://your-portfolio-link.com)
-
-</div>
-
-## 💭 Dev Quote of the Day
-
-<div align="center">
-
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
-
-
-</div>
-
-
-
-## 📊 Coding Stats
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-Calculating...-00FF41?style=flat-square&labelColor=000000)
-![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-Thousands%20of%20Lines-00FF41?style=flat-square&labelColor=000000)
-<!--END_SECTION:waka-->
+<br/>
+<img src="https://komarev.com/ghpvc/?username=git-aftab&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
+# 💫 About Me
+
+I'm a Full Stack Developer from India who enjoys building products that solve real problems.
+
+My primary focus is backend engineering with Node.js, Express, MongoDB, Redis, and scalable API design, while also creating modern frontends using React, TypeScript, and Tailwind CSS.
+
+Currently I'm working on production-style applications involving authentication, caching, background jobs, AI integration, and system design concepts.
+
+---
+
+## 🚀 Currently Working On
+
+* 🛠 Full Stack Project Management System
+* 🎥 VideoTube (YouTube-inspired platform)
+* 🧠 AI-powered RAG applications
+* 📚 Learning System Design (LLD + HLD)
+* ⚡ Redis, BullMQ & scalable backend architecture
+
+---
+
+
+## Tech Stack
+ 
+**Languages**
+ 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-A8B9CC?style=flat-square&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-A8B9CC?style=flat-square&logo=java&logoColor=white)
+ 
+**Frontend**
+ 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+ 
+**Backend**
+ 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+ 
+**Performance & Scale**
+ 
+![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square)
+![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-333333?style=flat-square)
+![Aggregation Pipelines](https://img.shields.io/badge/Aggregation%20Pipelines-47A248?style=flat-square)
+ 
+**AI / Retrieval**
+ 
+![Supabase](https://img.shields.io/badge/Supabase%20pgvector-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-000000?style=flat-square)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-6366F1?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-6366F1?style=flat-square)
+ 
+**Tools**
+ 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+ 
+<br/>
+
+# 📌 Featured Projects
+
+## 🚀 Project Management System
+
+A modern project management platform inspired by Linear and Jira (Frontend To be build)
+
+### Features
+
+* Authentication
+* Team Workspaces
+* Kanban Boards
+* Task Management
+* Role Based Access Control
+* Activity Timeline
+* Responsive UI
+
+**Tech**
+
+React • TypeScript • Tailwind CSS • Node.js • MongoDB
+
+---
+
+## 🎥 VideoTube
+
+A scalable YouTube-inspired platform built with production-ready backend architecture.
+
+### Features
+
+* JWT Authentication
+* Google OAuth
+* Refresh Token Rotation
+* Email Verification
+* Forgot Password
+* Video Upload
+* Cloudinary Storage
+* Likes
+* Comments
+* Playlists
+* Watch History
+* Redis Cache
+* BullMQ Background Jobs
+* Video - AI Chatbot 
+
+**Tech**
+
+Node.js • Express • MongoDB • Redis • BullMQ • Cloudinary • RAG • Groq • Jina Embedding
+
+---
+
+## 🧠 OrgMemory
+
+An AI-powered knowledge management system that lets users search documents using semantic search and Retrieval-Augmented Generation.
+
+### Features
+
+* Document Upload
+* Chunking
+* Embeddings
+* Semantic Search
+* AI Question Answering
+* Vector Database
+
+**Tech**
+
+Node.js • Supabase pgvector • Transformers • OpenRouter
+
+---
+
+# 📈 GitHub Stats
+
 <div align="center">
-  
-### ⭐️ From [git-aftab](https://github.com/git-aftab)
 
-```javascript
-while (alive) {
-    eat();
-    sleep();
-    code();
-    playCricket();
-}
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=git-aftab&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-
-```
-
-*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler*
-
-**Happy Coding! 🚀**
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-aftab&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=git-aftab&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=git-aftab&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+* Advanced Backend Architecture
+* System Design
+* Docker 
+* CI/CD
+* WebSockets
+* Next.js
+* Distributed Systems
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.mdaftab.me">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/git-aftab">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/md-aftab-360996328/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:aftabdev18@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💭 Developer Philosophy
+
+> "Build products, not just projects."
+
+```ts
+while (learning) {
+    build();
+    fail();
+    improve();
+    repeat();
+}
+```
+<div align=center>
+⭐ If you like my work, consider giving a star to my repositories.
+<div/>
