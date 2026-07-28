@@ -97,7 +97,7 @@ Currently I'm working on production-style applications involving authentication,
 
 ## 🚀 Project Management System
 
-A modern project management platform inspired by Linear and Jira (Frontend To be build)
+A modern project management platform inspired by Linear and Jira (Frontend To be built)
 
 ### Features
 
