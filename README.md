@@ -134,6 +134,8 @@ A scalable YouTube-inspired platform built with production-ready backend archite
 * Watch History
 * Redis Cache
 * BullMQ Background Jobs
+* Video to Audio [ffmpeg]
+* Audio to text [whisper]
 * Video - AI Chatbot 
 
 **Tech**
