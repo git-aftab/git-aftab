@@ -21,11 +21,11 @@ Building scalable web applications with modern backend architecture, clean UI, a
 
 # 💫 About Me
 
-I'm a Full Stack Developer from India who enjoys building products that solve real problems.
+I'm a Full Stack Developer from Chennai, India who enjoys building products that solve real-world problems.
 
-My primary focus is backend engineering with Node.js, Express, MongoDB, Redis, and scalable API design, while also creating modern frontends using React, TypeScript, and Tailwind CSS.
+My primary focus is backend engineering with Node.js, Express, MongoDB, Redis, and scalable API design, while also building modern frontends with React, TypeScript, and Tailwind CSS.
 
-Currently I'm working on production-style applications involving authentication, caching, background jobs, AI integration, and system design concepts.
+Currently, I'm working on production-style applications involving authentication, caching, background jobs, AI integrations, and system design.
 
 ---
 
@@ -93,74 +93,6 @@ Currently I'm working on production-style applications involving authentication,
  
 <br/>
 
-# 📌 Featured Projects
-
-## 🚀 Project Management System
-
-A modern project management platform inspired by Linear and Jira (Frontend To be built)
-
-### Features
-
-* Authentication
-* Team Workspaces
-* Kanban Boards
-* Task Management
-* Role Based Access Control
-* Activity Timeline
-* Responsive UI
-
-**Tech**
-
-React • TypeScript • Tailwind CSS • Node.js • MongoDB
-
----
-
-## 🎥 VideoTube
-
-A scalable YouTube-inspired platform built with production-ready backend architecture.
-
-### Features
-
-* JWT Authentication
-* Google OAuth
-* Refresh Token Rotation
-* Email Verification
-* Forgot Password
-* Video Upload
-* Cloudinary Storage
-* Likes
-* Comments
-* Playlists
-* Watch History
-* Redis Cache
-* BullMQ Background Jobs
-* Video to Audio [ffmpeg]
-* Audio to text [whisper]
-* Video - AI Chatbot 
-
-**Tech**
-
-Node.js • Express • MongoDB • Redis • BullMQ • Cloudinary • RAG • Groq • Jina Embedding
-
----
-
-## 🧠 OrgMemory
-
-An AI-powered knowledge management system that lets users search documents using semantic search and Retrieval-Augmented Generation.
-
-### Features
-
-* Document Upload
-* Chunking
-* Embeddings
-* Semantic Search
-* AI Question Answering
-* Vector Database
-
-**Tech**
-
-Node.js • Supabase pgvector • Transformers • OpenRouter
-
 ---
 
 # 📈 GitHub Stats
@@ -192,42 +124,6 @@ Node.js • Supabase pgvector • Transformers • OpenRouter
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=git-aftab&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
----
-
-# 🌱 Currently Learning
-
-* Advanced Backend Architecture
-* System Design
-* Docker 
-* CI/CD
-* WebSockets
-* Next.js
-* Distributed Systems
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://www.mdaftab.me">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/git-aftab">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/md-aftab-360996328/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:aftabdev18@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
